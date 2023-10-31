@@ -5,6 +5,10 @@ It is trained with 606 rows of code snippets on a Macbook M1 Pro with a Total em
 
 Special characters are converted to texts and then are tokenized and is reversed back to symbols after prediction.
 
+## Training for other languages
+
+This model can be trained for other languages just by creating code snippets of the respective language CSV file like [dataset.csv](https://github.com/enockjamin01/autocode/blob/main/dataset.csv) file
+
 ## Modules to install
 
 ```bash
